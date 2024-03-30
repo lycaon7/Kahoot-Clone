@@ -1,0 +1,99 @@
+{
+  "Animals": [
+    {
+      "question": "What do monkeys eat?",
+      "options": [
+        "Leaves",
+        "Fruit",
+        "Bugs",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above"
+    },
+    {
+      "question": "On which continent do Moose live?",
+      "options": [
+        "North America",
+        "Africa",
+        "Asia",
+        "South America"
+      ],
+      "correct_answer": "North America"
+    },
+    {
+      "question": "What colour are zebras",
+      "options": [
+        "Black",
+        "Black with white stripes",
+        "White with black stripes",
+        "White"
+      ],
+      "correct_answer": "White with black stripes"
+    }
+
+  ],
+  "Holidays": [
+    {
+      "question": "On which holiday do we eat doughnuts?",
+      "options": [
+        "Passover",
+        "Sukkot",
+        "Purim",
+        "Hanukkah"
+      ],
+      "correct_answer": "Hanukkah"
+    },
+    {
+      "question": "How many fasts days are there each year",
+      "options": [
+        "7",
+        "8",
+        "6",
+        "2"
+      ],
+      "correct_answer": "7"
+    },
+    {
+      "question": "Which holiday is the holiday of the collection?",
+      "options": [
+        "Passover",
+        "Sukkot",
+        "Shavuot",
+        "Hanukkah"
+      ],
+      "correct_answer": "Sukkot"
+    }
+  ],
+  "Sports": [
+    {
+      "question": "What are the five colours of the Olympic rings?",
+      "options": [
+        "Blue, Yellow, Black, Green and Red",
+        "Blue, Yellow, Gold, Green and Red",
+        "Blue, Yellow, Black, Purple and Red",
+        "White, Yellow, Black, Green and Red"
+      ],
+      "correct_answer": "Blue, Yellow, Black, Green and Red"
+    },
+    {
+      "question": "How many horses are on each team in a polo match?",
+      "options": [
+        "2",
+        "1",
+        "4",
+        "8"
+      ],
+      "correct_answer": "4"
+    },
+    {
+      "question": "Which European city hosted the 1936 Summer Olympics?",
+      "options": [
+        "London",
+        "Berlin",
+        "Oslo",
+        "Prague"
+      ],
+      "correct_answer": "Berlin"
+    }
+  ]
+}
